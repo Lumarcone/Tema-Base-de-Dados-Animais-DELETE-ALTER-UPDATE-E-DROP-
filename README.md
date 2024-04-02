@@ -1,4 +1,4 @@
-#ATIVIDADE INDIVIDUAL – TEMA: BASE DE DADOS ANIMAIS
+# ATIVIDADE INDIVIDUAL – TEMA: BASE DE DADOS ANIMAIS
 
 Após a criação de uma nova base, execute os códigos abaixo:
 
